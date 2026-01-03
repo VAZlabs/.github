@@ -34,7 +34,6 @@
 
 | Project | Description | Tech |
 |------|------------|------|
-| **NebulaCTF** | A modern self-hosted CTF platform | `Python` |
 | **SecretScout** | Defensive secret scanner for Git repositories | `Python` |
 | **cyber-find** | OSINT tool for searching user presence across platforms | `Python` |
 
